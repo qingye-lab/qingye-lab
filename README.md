@@ -18,14 +18,14 @@ AI Quality Engineering & Engineering Governance
 
 | 项目 | 解决的问题 | 证据入口 |
 | --- | --- | --- |
-| [Rootloom](https://github.com/qingye-lab/rootloom) | 把编码智能体的风险路由、根因边界、范围约束和验证复核组织成可检查的工程工作流 | [案例](https://liyanqing.xflux.cn/cases/rootloom/) |
-| CaseFlux | 从需求、功能测试用例和 UI 自动化，到真实执行、失败诊断与审核后修复的 AI 原生测试闭环 | [案例](https://liyanqing.xflux.cn/cases/caseflux/) |
-| Cognera | Server-first 的多端个人智能工作台，以可追溯上下文、权限隔离和跨端事实边界支持人工智能工程治理 | [项目说明](https://liyanqing.xflux.cn/tools/cognera/) |
-| [衡木](https://github.com/qingye-lab/hengmu) | 用架构发现、决策记录、Git 证据和确定性门禁支持可复现的软件工程决策 | [案例](https://liyanqing.xflux.cn/cases/hengmu/) |
+| [Rootloom](https://github.com/qingye-lab/rootloom) | 把编码智能体的风险路由、根因边界、范围约束和验证复核组织成可检查的工程工作流 | [案例](https://yanqing.li/cases/rootloom/) |
+| CaseFlux | 从需求、功能测试用例和 UI 自动化，到真实执行、失败诊断与审核后修复的 AI 原生测试闭环 | [案例](https://yanqing.li/cases/caseflux/) |
+| Cognera | Server-first 的多端个人智能工作台，以可追溯上下文、权限隔离和跨端事实边界支持人工智能工程治理 | [项目说明](https://yanqing.li/tools/cognera/) |
+| [衡木](https://github.com/qingye-lab/hengmu) | 用架构发现、决策记录、Git 证据和确定性门禁支持可复现的软件工程决策 | [案例](https://yanqing.li/cases/hengmu/) |
 | [AI Playwright Framework](https://github.com/qingye-lab/ai-playwright-framework) | YAML-first 的 Playwright / pytest UI 自动化框架，用契约测试和 CI 门禁约束质量 | [仓库](https://github.com/qingye-lab/ai-playwright-framework) |
 
 ## 联系与了解更多
 
-- 个人站：[liyanqing.xflux.cn](https://liyanqing.xflux.cn/)
-- 完整简历：[在线简历](https://liyanqing.xflux.cn/resume/)
+- 个人站：[yanqing.li](https://yanqing.li/)
+- 完整简历：[在线简历](https://yanqing.li/resume/)
 - 邮箱：[lyqgmail@gmail.com](mailto:lyqgmail@gmail.com)
